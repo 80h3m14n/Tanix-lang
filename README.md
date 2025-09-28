@@ -1,2 +1,3 @@
 # Tanix
-A general purpose programming
+
+A general purpose programming Language
